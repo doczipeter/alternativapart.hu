@@ -213,9 +213,9 @@ button.button-primary,
 input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
-  color: #000; /* FFF */
-  background-color: #fff; /* 33C3F0 */
-  border-color: #fff; } /* 33C3F0 */
+  color: #fff; /* FFF */
+  background-color: #000; /* 33C3F0 */
+  border-color: #000; } /* 33C3F0 */
 .button.button-primary:hover,
 button.button-primary:hover,
 input[type="submit"].button-primary:hover,
